@@ -1,0 +1,4 @@
+Valor do Imóvel: R$ 500000,00, Total do Financiamento: R$ 1079190,95, Taxa de Juros Anual: 6,00%, Prazo: 30 anos
+Valor do Imóvel: R$ 1880000,00, Total do Financiamento: R$ 4057757,95, Taxa de Juros Anual: 6,00%, Prazo: 30 anos
+Valor do Imóvel: R$ 205000,00, Total do Financiamento: R$ 442468,29, Taxa de Juros Anual: 6,00%, Prazo: 30 anos
+Valor do Imóvel: R$ 255000,00, Total do Financiamento: R$ 550387,38, Taxa de Juros Anual: 6,00%, Prazo: 30 anos
